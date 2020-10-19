@@ -1,0 +1,6 @@
+#ignore all shitty iml files
+*.iml
+#ignore every single fucking folder
+lesson_*/*/
+#dont ignore java src folders
+!lesson_*/src/
