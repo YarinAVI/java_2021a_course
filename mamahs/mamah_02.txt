@@ -6,13 +6,13 @@
 6->2
 7->4
 8->8
-9->1  // neex explanation same logic
+9->1  // need explanation same logic
 10->8
 11->1 // need explanation about this shit
 12->6
 13->3
 14->2
-15->9
+15->5
 16->5
 17->3
 18->4
