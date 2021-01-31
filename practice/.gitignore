@@ -1,5 +1,6 @@
 #ignore all shitty iml files
 *.iml
+*.xml
 #ignore every single fucking folder
 20*_*/*/
 #dont ignore java src folders
