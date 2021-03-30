@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=D
+comment0.text=\n\ Write\ a\ description\ of\ class\ D\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=obj
+comment1.target=boolean\ equals(A)
+comment2.params=obj
+comment2.target=boolean\ equals(B)
+comment3.params=obj
+comment3.target=boolean\ equals(D)
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+numComments=5
