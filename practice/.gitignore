@@ -5,3 +5,6 @@
 20*_*/*/
 #dont ignore java src folders
 !20*_*/src/
+!2021_practice/Discrete_math_sol
+!2021_practice/Complexity_questions
+!2021_practice/recursion
